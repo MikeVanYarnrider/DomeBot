@@ -16,4 +16,6 @@ Right now the Project is based on an Arduino Mega 2560 and uses/will use some of
   - data logger
   
   
-  
+The proof of concept is already done and wired, quite a lot of hardware is built, but I am still missing the complete GUI Menu for the Touch screen.
+
+
